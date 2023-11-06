@@ -20,7 +20,7 @@
 
 ## Demo
 
-https://github.com/K4T4L1N/CV_ToDoList
+[to be added...]
 
 ## Available Scripts
 
