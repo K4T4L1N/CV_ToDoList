@@ -22,6 +22,8 @@
 
 [to be added...]
 
+## Screenshots
+
 ## Available Scripts
 
 Lunch instructions:
