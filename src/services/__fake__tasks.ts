@@ -1,5 +1,9 @@
 export const TasksList = [
-  {
+/**
+   * If filter("All" ,"Complete" or "Active") is selected or searchTerm entered,
+   * filteredTasks or searchedTasks are shown;
+   * Otherwise, activeTasks render.
+     {
     id: "asdf123",
     title: "Learn React.js",
     date: "2023-11-01",
@@ -17,4 +21,5 @@ export const TasksList = [
     date: "2023-11-19",
     done: false,
   },
+  */
 ];
