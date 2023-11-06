@@ -38,7 +38,7 @@ export const TodosList = ({ filterOption }: iTodosList): JSX.Element => {
     displayingTasks = SearchedTasks;
   }
 
-  // Deletes a task row by clicking on "delete" icon
+  // Deletes a task row by clicking on "delete"
   const handleDelete = (id: string) => {
     dispatch(removeTask(id));
   };

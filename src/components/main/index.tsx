@@ -84,7 +84,7 @@ export const Main = () => {
       {/* If no tasks found by search query, NotFound component renders: */}
       {searchTerm && counts.searchResultsCount === 0 && <NotFound />}
 
-      {/* Renders task filters*/}
+      {/* task filters*/}
       <div className="filter-tasks">
         <Filter handleClick={handleFilterChange} />
       </div>

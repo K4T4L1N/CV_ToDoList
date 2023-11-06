@@ -1,8 +1,8 @@
 {
-  "homepage": "https://farimah71.github.io/src/app/main.tsx",
-  "name": "tododoer",
+  "homepage": "https://github.com/K4T4L1N/CV_ToDoList",
+  "name": "todotaskmaster",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.2",
   "type": "module",
   "scripts": {
     "dev": "vite",
