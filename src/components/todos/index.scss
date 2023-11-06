@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap");
+$task-list-font: "Merriweather", serif;
+
+@keyframes fadeIn {
+  0% {
+    transform: translateX(700px);
+  }
+  100% {
+    transform: translateX(0px);
+  }
+}
+
+.task-list {
+  overflow: hidden;
+}
+
+li.list-group-item {
+  display: flex;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: bold;
+  animation: fadeIn 1.5s 1;
+  animation-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
+.form-check-input {
+  margin-top: 7.5px !important;
+}
+
+.form-check-input:checked {
+  background-color: green !important;
+}
+
+.form-check-input:hover {
+  transform: scale(1.3);
+}
+
+.task-name {
+  margin-top: 4px;
+}
+
+.task-done {
+  text-decoration: line-through;
+  color: green;
+}
+
+.clickable {
+  cursor: pointer;
+}
+
+.today-badge {
+  margin-top: 5px;
+}

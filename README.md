@@ -1,6 +1,4 @@
-# ToDoDoer 📝
-
-An application helps managing to-do tasks as a piece of cake! 🍰
+# ToDoTaskMaster
 
 ## Features
 
@@ -19,23 +17,6 @@ An application helps managing to-do tasks as a piece of cake! 🍰
 - Today badge for today tasks
 
 - Done/undone task toggling
-
-## Table of contents
-
-- [ToDoDoer 📝](#tododoer-)
-  - [Features](#features)
-  - [Table of contents](#table-of-contents)
-  - [Demo](#demo)
-  - [Run](#run)
-  - [Available Scripts](#available-scripts)
-  - [Project file structure](#project-file-structure)
-  - [Screenshots](#screenshots)
-  - [Packages](#packages)
-  - [Style](#style)
-  - [State management](#state-management)
-  - [Badges](#badges)
-  - [Contributing](#contributing)
-  - [Feedback](#feedback)
 
 ## Demo
 

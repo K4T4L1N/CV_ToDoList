@@ -1,0 +1,21 @@
+.main {
+  padding: 1em;
+  color: black;
+}
+
+.first-row {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 40px;
+  align-items: center;
+}
+
+.show {
+  opacity: 1;
+  transition: opacity 1s;
+}
+
+.hide {
+  opacity: 0;
+  transition: opacity;
+}
