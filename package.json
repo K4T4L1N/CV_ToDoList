@@ -2,7 +2,7 @@
   "homepage": "https://github.com/K4T4L1N/CV_ToDoList",
   "name": "todotaskmaster",
   "private": true,
-  "version": "0.0.2",
+  "version": "0.1.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
